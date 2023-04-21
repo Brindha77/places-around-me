@@ -17,6 +17,7 @@ Run the django server and execute the HTML files.
 
 ## Code:
 map.html
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -62,7 +63,7 @@ map.html
 
     </body>
 </html>
-
+```
 
 ## Output:
 Include your output screenshot here
