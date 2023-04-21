@@ -16,8 +16,9 @@ Write the needed HTML code.
 Run the django server and execute the HTML files.
 
 ## Code:
-map.html
 ```
+map.html
+
 <!DOCTYPE html>
 <html>
     <head>
